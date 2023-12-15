@@ -1,0 +1,35 @@
+h1{
+    /* color: rgb(194, 73, 73); */
+    color: #ffb9d3;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+p{
+    font-size: 10px;
+    color: blue;
+    font-weight: 700;
+}
+
+#destaque{
+    color: green;
+    font-size: 15px;
+}
+.pequenininho{
+    font-size: 5px;
+}
+div{
+    background-color: black;
+}
+
+.divisao1{
+    background-color: rgba(255, 192, 203, 0.506);
+}
+.divisao2{
+    background-color: brown;
+}
+
+.destaque2{
+    color: yellow;
+    font-size: 40px;
+}

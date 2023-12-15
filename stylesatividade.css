@@ -1,0 +1,35 @@
+body{
+    background-color: #cea2ac;
+    color: #30292f;
+    
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 70px;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-style: normal;
+    color: #30292f;
+}
+
+img{
+    
+}
+
+.pergunta1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    color: 30292f;
+    text-decoration: underline;
+
+}
+
+.resposta1{
+    font-family: Arial, Helvetica, sans-serif;
+}
